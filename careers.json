@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Data Analyst",
+        "description": "Data analysts collect, process, and perform statistical analyses on large datasets to help organizations make data-driven decisions.",
+        "keywords": ["data", "numbers", "analysis", "statistics", "technology"],
+        "required_skills": ["Excel", "SQL", "Python", "data visualization", "statistics"],
+        "demand": "High (Growing 25% annually)",
+        "outlook": "Excellent with increasing data-driven decision making across industries",
+        "learning_resources": [
+            "Coursera: Google Data Analytics Professional Certificate",
+            "Udemy: Python for Data Science and Machine Learning",
+            "Kaggle: Learn SQL and Python through hands-on exercises"
+        ],
+        "learning_path": [
+            "Learn foundational statistics",
+            "Master Excel and SQL",
+            "Learn Python for data analysis (Pandas, NumPy)",
+            "Practice with real datasets on Kaggle",
+            "Build a portfolio of analysis projects"
+        ]
+    },
+    {
+        "title": "UX/UI Designer",
+        "description": "UX/UI designers create user-friendly interfaces and optimize user experiences for digital products.",
+        "keywords": ["design", "user experience", "creativity", "technology", "psychology"],
+        "required_skills": ["Figma", "user research", "wireframing", "prototyping", "UI principles"],
+        "demand": "Very High (Growing 30% annually)",
+        "outlook": "Excellent as digital transformation continues across all sectors",
+        "learning_resources": [
+            "Interaction Design Foundation courses",
+            "Udemy: User Experience Design Fundamentals",
+            "YouTube: Adobe XD/Figma tutorials"
+        ],
+        "learning_path": [
+            "Learn design fundamentals (color theory, typography)",
+            "Master design tools (Figma, Adobe XD)",
+            "Study psychology of user behavior",
+            "Build a portfolio with case studies",
+            "Get feedback on designs from real users"
+        ]
+    },
+    {
+        "title": "Cybersecurity Specialist",
+        "description": "Cybersecurity professionals protect systems, networks, and data from digital attacks.",
+        "keywords": ["security", "technology", "problem-solving", "hacking", "networks"],
+        "required_skills": ["networking", "Linux", "Python", "risk assessment", "security tools"],
+        "demand": "Extremely High (Growing 35% annually)",
+        "outlook": "Critical need as cyber threats continue to evolve and increase",
+        "learning_resources": [
+            "TryHackMe: Hands-on cybersecurity training",
+            "Coursera: IBM Cybersecurity Analyst Professional Certificate",
+            "YouTube: NetworkChuck cybersecurity tutorials"
+        ],
+        "learning_path": [
+            "Learn networking fundamentals",
+            "Study operating systems (especially Linux)",
+            "Understand common vulnerabilities",
+            "Practice on capture-the-flag platforms",
+            "Obtain entry-level certifications (Security+, CEH)"
+        ]
+    }
+]
